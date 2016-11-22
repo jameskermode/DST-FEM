@@ -17,3 +17,8 @@ The [FEM-lecture.ipynb](FEM-lecture.ipynb) Jupyter notebook can be previewed fro
 - When you return to the JuliaBox home page, you should see a `DST-FEM` folder with an `FEM-lecture.ipynb` notebook inside.
 - Click the notebook to open it, then press `Shift+Enter` to execute code in each cell in turn.
       
+
+## Acknowledgements
+
+- 1D elastic bar adapted from a [Python example by by Garth Wells](https://github.com/garth-wells/notebooks-3D7/blob/master/01-ElasticBarLinearFEM.ipynb)
+- 2D Laplacian solver adapted from an [example written by Christoph Ortner](http://nbviewer.ipython.org/url/homepages.warwick.ac.uk/staff/C.Ortner/julia/Laplacian.ipynb)
