@@ -20,5 +20,5 @@ The [FEM-lecture.ipynb](FEM-lecture.ipynb) Jupyter notebook can be previewed fro
 
 ## Acknowledgements
 
-- 1D elastic bar adapted from a [Python example by by Garth Wells](https://github.com/garth-wells/notebooks-3D7/blob/master/01-ElasticBarLinearFEM.ipynb)
+- 1D elastic bar adapted from a [Python example by Garth Wells](https://github.com/garth-wells/notebooks-3D7/blob/master/01-ElasticBarLinearFEM.ipynb)
 - 2D Laplacian solver adapted from an [example written by Christoph Ortner](http://nbviewer.ipython.org/url/homepages.warwick.ac.uk/staff/C.Ortner/julia/Laplacian.ipynb)
