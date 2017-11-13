@@ -4,7 +4,7 @@
 
 GitHub repo at: https://github.com/jameskermode/DST-FEM/
 
-This notebook is based on a lecture gives to the [Diamond Science and Technology (DST) CDT](https://www2.warwick.ac.uk/fac/sci/dst) at the University of Warwick in November 2016.
+This notebook is based on a lecture gives to the [Diamond Science and Technology (DST) CDT](https://www2.warwick.ac.uk/fac/sci/dst) at the University of Warwick in November 2017.
 
 The [FEM-lecture.ipynb](FEM-lecture.ipynb) Jupyter notebook can be previewed from this Github repository directly, or run using [JuliaBox](https://www.juliabox.com). To run it using JuliaBox:
 
